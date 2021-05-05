@@ -1,0 +1,29 @@
+
+
+body{
+    background-color: rgb(15, 30, 37);
+    background-image: url(/img/forest-texture-2.jpg);
+    background-repeat:no-repeat;
+    background-size: 2000px;
+}
+section{
+    background-color:floralwhite;
+    max-width: 1200px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+#banner {
+    max-height: 300px;
+    overflow-y:hidden;
+}
+
+#banner img {
+    width: 100%;
+}
+
+   
+
+

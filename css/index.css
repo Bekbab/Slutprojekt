@@ -1,7 +1,22 @@
+body {
+    background-color: rgb(15, 30, 37);
+    background-image: url(/img/forest-texture-2.jpg);
+    background-repeat:no-repeat;
+    background-size: 2000px;
+}
+
 main {
-    background-color: antiquewhite;
+    color:black;
+    background-color:floralwhite;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 1rem;
-    border-radius: 5px;
+    margin-top: 8rem;
+    padding:1rem;
 }
+
+h2 {
+    padding-bottom: 0.5rem;
+}
+
+
+
