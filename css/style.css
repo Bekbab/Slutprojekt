@@ -35,6 +35,12 @@ nav {
     text-align: center;
 }
 
+h1 a{
+    font-family:"Brush Script MT";
+    /* font-family:"Lucida Handwriting"; */
+    font-size: 70px;
+}
+
 .discordimage {
     width:100px;
     
@@ -47,6 +53,9 @@ nav {
 nav a {
     color:bisque;
     text-decoration: none;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
 }
 
 nav a:hover {
