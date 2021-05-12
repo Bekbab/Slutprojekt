@@ -32,10 +32,7 @@ p{
   flex-grow: 1;
   overflow: hidden;
 }
-/* 
-.gallery div:last-child {
-  flex-grow: 10;
-} */
+
 
 .gallery img {
   max-height: 100%;
