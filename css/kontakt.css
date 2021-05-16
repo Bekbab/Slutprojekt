@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(15, 30, 37);
+    background-image: url("texture.jpg");
+    background-repeat:no-repeat;
+    background-size: 2000px;
+}
+main{
+    background-color: floralwhite;
+    margin: 5%;
+    padding: 1rem;
+}
+
+#kooterna {
+    display: flex;
+    flex-wrap: wrap;
+}
+#additional{
+    margin-top: 2rem;
+}
+
+.no {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
